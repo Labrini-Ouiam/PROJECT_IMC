@@ -33,4 +33,7 @@ en fonction de leur poids et de leur taille. Elle affiche également une image c
 Langage : Kotlin
 Architecture : Android XML (UI) + Kotlin (Logique)
 IDE : Android Studio
+
+![image](https://github.com/user-attachments/assets/11c20a34-1e43-4200-81c1-066bb14f9482)
+
   
